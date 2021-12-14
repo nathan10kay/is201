@@ -1,0 +1,17 @@
+.deerimg{
+    height: 300px; 
+    width: 250px;
+}
+.trackimg{
+    height: 300px; 
+    width: 450px;
+}
+h1 {
+    background-color:rgb(27, 27, 26);
+}
+h1 {
+    font-style: italic;
+}
+body {
+   font-family: Georgia, 'Times New Roman', Times, serif;
+}
